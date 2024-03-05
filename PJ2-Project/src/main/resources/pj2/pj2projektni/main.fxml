@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="522.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pj2.pj2projektni.MainController">
+   <children>
+      <HBox prefHeight="100.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="100.0" spacing="10.0" HBox.hgrow="ALWAYS">
+               <children>
+                  <GridPane hgap="10.0" vgap="10.0" VBox.vgrow="ALWAYS">
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <StackPane fx:id="ct1Sp" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: #EAF1DD;">
+                           <children>
+                              <Label text="C1" />
+                           </children>
+                        </StackPane>
+                        <StackPane layoutX="10.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" />
+                        <StackPane fx:id="pt1Sp" layoutX="10.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: #C1D3EB;" GridPane.rowIndex="1">
+                           <children>
+                              <Label text="P1" />
+                           </children>
+                        </StackPane>
+                        <StackPane fx:id="pt2Sp" layoutX="10.0" layoutY="76.0" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: #C1D3EB;" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                           <children>
+                              <Label text="P2" />
+                           </children>
+                        </StackPane>
+                        <StackPane fx:id="p1SP" layoutX="10.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                        <StackPane fx:id="p2Sp" layoutX="10.0" layoutY="83.0" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                        <StackPane fx:id="cktSp" layoutX="314.0" layoutY="83.0" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: #EAF1DD;" GridPane.columnIndex="4">
+                           <children>
+                              <Label text="CK" />
+                           </children>
+                        </StackPane>
+                        <StackPane fx:id="pktSp" layoutX="416.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: #C1D3EB;" GridPane.columnIndex="4" GridPane.rowIndex="1">
+                           <children>
+                              <Label text="PK" />
+                           </children>
+                        </StackPane>
+                        <StackPane fx:id="pkSp" layoutX="416.0" layoutY="83.0" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+                        <StackPane fx:id="ckSp" layoutX="518.0" layoutY="83.0" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" />
+                        <StackPane fx:id="c1Sp" layoutX="207.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" />
+                     </children>
+                  </GridPane>
+                  <HBox VBox.vgrow="ALWAYS">
+                     <children>
+                        <Region prefHeight="200.0" prefWidth="200.0" HBox.hgrow="ALWAYS" />
+                        <GridPane fx:id="mainGrid" maxHeight="290.0" maxWidth="88.0" prefHeight="290.0" prefWidth="88.0" vgap="10.0" HBox.hgrow="ALWAYS">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                          </columnConstraints>
+                          <rowConstraints>
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <StackPane prefWidth="200.0" />
+                              <StackPane layoutX="10.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="1" />
+                              <StackPane layoutX="10.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="2" />
+                              <StackPane layoutX="10.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="3" />
+                              <StackPane layoutX="10.0" layoutY="10.0" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="4" />
+                           </children>
+                        </GridPane>
+                        <Region prefHeight="200.0" prefWidth="200.0" HBox.hgrow="ALWAYS" />
+                     </children>
+                  </HBox>
+                  <HBox prefWidth="200.0" spacing="5.0">
+                     <children>
+                        <Label fx:id="timeLbl" text="Vrijeme trajanja simulacije:" />
+                        <Region prefWidth="200.0" HBox.hgrow="ALWAYS" />
+                        <VBox prefWidth="100.0" spacing="5.0" HBox.hgrow="ALWAYS">
+                           <children>
+                              <Button fx:id="pauzaBtn" mnemonicParsing="false" onAction="#pauzaClick" prefWidth="150.0" text="Pauza" />
+                              <Button mnemonicParsing="false" onAction="#incidentiClick" prefWidth="150.0" text="Incidenti" />
+                           </children>
+                        </VBox>
+                     </children>
+                     <VBox.margin>
+                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                  </HBox>
+               </children>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="100.0" spacing="10.0" HBox.hgrow="ALWAYS">
+               <children>
+                  <Label text="Istorija događaja">
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                  </Label>
+                  <ListView fx:id="dogadjajiLv" prefHeight="200.0" prefWidth="200.0" VBox.vgrow="ALWAYS" />
+               </children>
+               <padding>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </padding>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+</AnchorPane>

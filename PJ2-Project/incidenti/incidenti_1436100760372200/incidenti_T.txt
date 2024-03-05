@@ -1,0 +1,3 @@
+1_Vozilo Vozilo_14 je imalo incident na policijskom terminalu.Vozaceva dokumenta su ispravna te vozilo moze da nastavi dalje svoje kretanje, ali se pre toga iz vozila izbacuju svi putnici sa nevazecim dokumentima. Broj takvih putnika = 1
+2_Vozilo Vozilo_27 je imalo incident na policijskom terminalu.Vozaceva dokumenta su ispravna te vozilo moze da nastavi dalje svoje kretanje, ali se pre toga iz vozila izbacuju svi putnici sa nevazecim dokumentima. Broj takvih putnika = 1
+3_Vozilo Vozilo_39 je imalo incident na policijskom terminalu.Vozaceva dokumenta su ispravna te vozilo moze da nastavi dalje svoje kretanje, ali se pre toga iz vozila izbacuju svi putnici sa nevazecim dokumentima. Broj takvih putnika = 1

@@ -1,0 +1,6 @@
+1_Vozilo Vozilo_36 je imalo incident na policijskom terminalu.Vozaceva dokumenta su ispravna te vozilo moze da nastavi dalje svoje kretanje, ali se pre toga iz vozila izbacuju svi putnici sa nevazecim dokumentima. Broj takvih putnika = 1
+2_Vozilo Vozilo_10 je imalo incident na policijskom terminalu.Vozaceva dokumenta su ispravna te vozilo moze da nastavi dalje svoje kretanje, ali se pre toga iz vozila izbacuju svi putnici sa nevazecim dokumentima. Broj takvih putnika = 1
+3_Vozilo Vozilo_21 je imalo incident na policijskom terminalu.Vozaceva dokumenta su neispravna te se vozilo izbacuje iz saobracaja.
+4_Vozilo Vozilo_36 je imalo incident na carisnkom terminalu.1 putnika su imali nedozvoljenestvari u koferu.Takvi putnici se izbacuju iz vozila, a vozilo nastavlja dalje svoj put.
+5_Vozilo Vozilo_40 je imalo incident na policijskom terminalu.Vozaceva dokumenta su ispravna te vozilo moze da nastavi dalje svoje kretanje, ali se pre toga iz vozila izbacuju svi putnici sa nevazecim dokumentima. Broj takvih putnika = 1
+6_Vozilo Vozilo_40 je imalo incident na carisnkom terminalu.1 putnika su imali nedozvoljenestvari u koferu.Takvi putnici se izbacuju iz vozila, a vozilo nastavlja dalje svoj put.
