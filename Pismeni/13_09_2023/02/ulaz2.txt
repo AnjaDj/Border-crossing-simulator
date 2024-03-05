@@ -1,0 +1,4 @@
+Prva linija ulaza 2
+Druga linija ulaza 2
+Treca linija ulaza 2
+Zajednicka linija

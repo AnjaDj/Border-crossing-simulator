@@ -1,0 +1,10 @@
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 7
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 21
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 35
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 49
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 63
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 77
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 91
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 105
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 119
+Modifikacija : broj slova O zamijenjenih 0 = 14 ,  broj izbacenih brojeva = 133
