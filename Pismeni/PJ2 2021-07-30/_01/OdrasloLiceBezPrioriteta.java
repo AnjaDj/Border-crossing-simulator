@@ -1,1 +1,0 @@
-public class OdrasloLiceBezPrioriteta extends FizickoLice{}

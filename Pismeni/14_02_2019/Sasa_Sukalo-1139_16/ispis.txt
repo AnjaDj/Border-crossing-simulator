@@ -1,4 +1,0 @@
-Broj parsiranih faktura: 5
-Ukupan iznos placanja: 175.0
-Broj parsiranih narudzbenica: 4
-Prosjecan broj stavki po narudzbenicama: 2

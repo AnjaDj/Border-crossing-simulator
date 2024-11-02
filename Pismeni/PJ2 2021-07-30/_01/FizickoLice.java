@@ -1,1 +1,0 @@
-public class FizickoLice extends Kupac{}

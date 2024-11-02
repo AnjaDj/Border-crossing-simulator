@@ -1,4 +1,0 @@
-public enum Zanr{
-	
-	TRILER, HOROR, KOMEDIJA, DOKUMENTARAC, AKCIJA;
-}

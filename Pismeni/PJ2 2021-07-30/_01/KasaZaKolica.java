@@ -1,1 +1,0 @@
-public class KasaZaKolica extends Kasa{}

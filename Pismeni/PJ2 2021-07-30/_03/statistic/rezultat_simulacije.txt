@@ -1,3 +1,0 @@
-Vrijeme trajanja simulacije = 7620629400
-Pretrazivana tema = dan
-Broj novih fajlova = 0
